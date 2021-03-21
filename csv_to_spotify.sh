@@ -23,11 +23,10 @@ rm -rf demo2_transtify_json.json
 rm -rf demo2_transtify_json_grep1.json
 rm -rf demo2_transtify_json_grep3.json
 rm -rf demo2_transtify_json_grep3_all.json
-# rm -rf demo2_transtify_json_grep4.json
 rm -rf demo2_generated_playlist.json
 rm -rf demo2_failed.txt
 rm -rf demo2_success.txt
-# rm -rf demo2_output.logsh
+
 
 
 # generating playlist
