@@ -6,3 +6,6 @@ spotify importer from csv
 
 
 Soon will do to export to csv or json a playlist of spotify
+
+
+readme will be updated soon
