@@ -22,5 +22,9 @@ readme will be updated soon
 
 
 
-## format of demo.csv
-
+## format of demo.csv 
+track_title;artist
+track_title
+typeofmusic;artist
+playlist;track_title
+track_title;artist
